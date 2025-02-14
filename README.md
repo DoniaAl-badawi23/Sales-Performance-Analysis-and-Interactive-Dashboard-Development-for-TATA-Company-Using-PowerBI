@@ -43,12 +43,25 @@ I developed a comprehensive project in PowerBI, creating multiple dashboards and
 
 ## Business Requirements (KPIs):
 
-### Sales Overview Dashboard
+### Business Requests for CEO
  1- Overall Metrics:
- - Total Sales
- - Total Budget
- - Total Customers
- - Total Products
+ 
+ - Total Revenue 
+-- This represents the total income generated from sales.
+-- It’s a key metric for evaluating overall business performance.
+
+ - Total Profit
+-- This shows the net earnings after deducting all costs and expenses from revenue.
+-- It indicates how efficiently the company is operating.
+
+Total Customers (419)
+
+The total number of unique customers who made purchases.
+This helps in understanding customer reach and market penetration.
+Total Quantities (927K)
+
+The total number of products sold.
+A useful metric for tracking demand and inventory management.
    
  2- Sales by Product Category
  
