@@ -39,7 +39,7 @@ I developed a comprehensive project in PowerBI, creating multiple dashboards and
 
 
 ## Dataset Used:
-  <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard">Dataset</a>
+  <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard-TATA-Group/blob/main/Online%20Retail%20Data%20Set.xlsx">Dataset</a>
 
 ## Business Requirements (KPIs):
 
