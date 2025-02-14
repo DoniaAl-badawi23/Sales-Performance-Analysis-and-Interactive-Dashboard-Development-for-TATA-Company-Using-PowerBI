@@ -47,45 +47,53 @@ I developed a comprehensive project in PowerBI, creating multiple dashboards and
 #### Main KPIs:
  
 1- Total Revenue
+
  - This represents the total income generated from sales.
    
  -  It’s a key metric for evaluating overall business performance.
 
 2- Total Profit
+
  - This shows the net earnings after deducting all costs and expenses from revenue.
    
  - It indicates how efficiently the company is operating.
 
 3- Total Customers 
+
 - The total number of unique customers who made purchases.
   
 - This helps in understanding customer reach and market penetration.
 
 4- Total Quantities
+
 -The total number of products sold.
 
 - A useful metric for tracking demand and inventory management.
 
  #### Graph KPIs 
 Total Revenue by Month 
+
 -This chart visualizes revenue trends across different months.
 
 -It highlights peak months (e.g., October) and low months (e.g., April).
 
 -Helps in identifying seasonal trends and planning accordingly.
 
-Total Revenue by Top 3 Months 
+Total Revenue by Top 3 Months
+
 - Displays the highest revenue-generating months (September, October, and November).
   
 - Helps in understanding when sales peak and why (e.g., seasonal demand, promotions).
 
 Total Revenue by Bottom 3 Months 
+
 - Highlights the months with the lowest revenue (February, April, and July).
   
 - Useful for investigating factors affecting sales during these periods.
 
  #### Geographical KPI 
 Total Quantities by Country 
+
 - Shows sales distribution across different regions.
   
 - Helps in identifying strong and weak markets.
