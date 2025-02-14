@@ -44,64 +44,60 @@ I developed a comprehensive project in PowerBI, creating multiple dashboards and
 ## Business Requirements (KPIs):
 
 ### Business Requests for CEO
- 1- Overall Metrics:
+#### Main KPIs:
  
- - Total Revenue 
--- This represents the total income generated from sales.
--- It’s a key metric for evaluating overall business performance.
+1- Total Revenue
+ - This represents the total income generated from sales.
+   
+ -  It’s a key metric for evaluating overall business performance.
 
- - Total Profit
--- This shows the net earnings after deducting all costs and expenses from revenue.
--- It indicates how efficiently the company is operating.
+2- Total Profit
+ - This shows the net earnings after deducting all costs and expenses from revenue.
+   
+ - It indicates how efficiently the company is operating.
 
-Total Customers (419)
+3- Total Customers 
+- The total number of unique customers who made purchases.
+  
+- This helps in understanding customer reach and market penetration.
 
-The total number of unique customers who made purchases.
-This helps in understanding customer reach and market penetration.
-Total Quantities (927K)
+4- Total Quantities
+-The total number of products sold.
 
-The total number of products sold.
-A useful metric for tracking demand and inventory management.
+- A useful metric for tracking demand and inventory management.
+
+ #### Graph KPIs 
+Total Revenue by Month 
+-This chart visualizes revenue trends across different months.
+
+-It highlights peak months (e.g., October) and low months (e.g., April).
+
+-Helps in identifying seasonal trends and planning accordingly.
+
+Total Revenue by Top 3 Months 
+- Displays the highest revenue-generating months (September, October, and November).
+  
+- Helps in understanding when sales peak and why (e.g., seasonal demand, promotions).
+
+Total Revenue by Bottom 3 Months 
+- Highlights the months with the lowest revenue (February, April, and July).
+  
+- Useful for investigating factors affecting sales during these periods.
+
+ #### Geographical KPI 
+Total Quantities by Country 
+- Shows sales distribution across different regions.
+  
+- Helps in identifying strong and weak markets.
+  
+- Assists in making location-based business decisions (e.g., marketing efforts, logistics).
    
- 2- Sales by Product Category
- 
- 3- Top 10 Customers by Sales
- 
- 4- Top 10 Products by Sales
- 
- 5- Sales and Budget Trends by Month
- 
- 6- Sales by Customer City
+### Business Requests for CMO:
    
-### Customer Details Dashboard
- 1- Overall Metrics:
- - Total Customers
- - Total Sales
- - Total Budget
- - Total Products
+
    
- 2- Sales by Product Category
-   
- 3- Sales by Customer City
+
  
- 4- Top 10 Customer by Sales
- 
- 5- Details Table about Customers
-   
-### Product Details Dashboard:
- 1- Overall Metrics:
- - Total Products
- - Total Sales
- - Total Budget
- - Total Customers
-   
- 2- Sales and Budget Trends by Month
-   
- 3- Sales by Customer City
- 
- 4- Top 10 Product by Sales
- 
- 5- Details Table about products
 
 
 ## Dashboard Interaction:
