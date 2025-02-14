@@ -66,18 +66,18 @@ I developed a comprehensive project in PowerBI, creating multiple dashboards and
 
 4- Total Quantities
 
--The total number of products sold.
+- The total number of products sold.
 
 - A useful metric for tracking demand and inventory management.
 
  #### Graph KPIs 
 Total Revenue by Month 
 
--This chart visualizes revenue trends across different months.
+- This chart visualizes revenue trends across different months.
 
--It highlights peak months (e.g., October) and low months (e.g., April).
+- It highlights peak months (e.g., October) and low months (e.g., April).
 
--Helps in identifying seasonal trends and planning accordingly.
+- Helps in identifying seasonal trends and planning accordingly.
 
 Total Revenue by Top 3 Months
 
