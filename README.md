@@ -71,6 +71,7 @@ I developed a comprehensive project in PowerBI, creating multiple dashboards and
 - A useful metric for tracking demand and inventory management.
 
  #### Graph KPIs 
+ 
 Total Revenue by Month 
 
 - This chart visualizes revenue trends across different months.
@@ -92,6 +93,7 @@ Total Revenue by Bottom 3 Months
 - Useful for investigating factors affecting sales during these periods.
 
  #### Geographical KPI 
+ 
 Total Quantities by Country 
 
 - Shows sales distribution across different regions.
@@ -101,12 +103,48 @@ Total Quantities by Country
 - Assists in making location-based business decisions (e.g., marketing efforts, logistics).
    
 ### Business Requests for CMO:
-   
 
-   
+#### Main KPIs:
 
+1- Total Revenue
+
+- The total income generated from sales.
+
+2- Total Profit
+
+- The net earnings after deducting costs.
+
+3- Total Customers
+
+- The number of unique customers making purchases.
+
+4- Total Quantities
+
+- The total number of products sold.
+
+ #### Graph KPIs 
  
+Revenue & Quantities by Top 10 Customers 
 
+- Displays total revenue and total quantities for the top 10 customers.
+  
+- The first customer contributes $280.21K in revenue and 197K in quantity.
+  
+- The revenue per customer decreases as we move right, showing customer distribution.
+  
+- Helps in identifying key customers driving business growth.
+
+Revenue & Quantities by Country 
+
+- Shows sales performance across different countries.
+  
+- Netherlands (285.4K) and EIRE (283.5K) are the top revenue-generating countries.
+  
+- Germany, France, and Australia also contribute significantly.
+  
+- Useful for market expansion and regional sales strategies.
+
+   
 
 ## Dashboard Interaction:
   <a href="https://github.com/DoniaAl-badawi23/Sales-Performance-Dashboard/blob/main/SalesReport.pbix">View Dashboard</a>
