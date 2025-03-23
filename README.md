@@ -1,11 +1,16 @@
-# Sales Performance Report For TATA Company
-I developed a comprehensive project in PowerBI, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.  
+# TATA Company Sales Performance Dashboard (Power BI)
 
-# Sales Performance Report For TATA Company (Interactive Dashboards Creation using PowerBI)
+## Project Summary:
+
+This project is focused on enhancing sales reporting and analytics for TATA Company by transforming traditional static reports into interactive Power BI dashboards. The goal is to provide real-time insights that help executives make informed business decisions based on sales performance, product demand, and customer trends.
+
+The dashboards are designed to address the specific business needs of the CEO and CMO, allowing them to explore key sales metrics, identify revenue patterns, and evaluate expansion opportunities. 
+
 
 ## Project Objective:
 
 ### Business Requests for CEO:
+
 - The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only.
   
 - He would like to view granular data by looking into revenue for each month.
@@ -25,6 +30,7 @@ I developed a comprehensive project in PowerBI, creating multiple dashboards and
 - There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
 ### Business Requests for CMO:
+
 - The CMO is interested in viewing the top 10 countries which are generating the highest revenue.
   
 - Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated.
