@@ -23,7 +23,8 @@ The dashboards are designed to address the specific business needs of the CEO an
   
 - He wants to look at all countries and see which regions have the greatest demand for their products.
   
-- Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions.
+- Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business 
+  from these regions.
   
 - He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand.
   
@@ -78,7 +79,7 @@ The dashboards are designed to address the specific business needs of the CEO an
 
  #### Graph KPIs 
  
-Total Revenue by Month 
+- Total Revenue by Month 
 
 - This chart visualizes revenue trends across different months.
 
@@ -86,7 +87,7 @@ Total Revenue by Month
 
 - Helps in identifying seasonal trends and planning accordingly.
 
-Total Revenue by Top 3 Months
+- Total Revenue by Top 3 Months
 
 - Displays the highest revenue-generating months (September, October, and November).
   
@@ -100,7 +101,7 @@ Total Revenue by Bottom 3 Months
 
  #### Geographical KPI 
  
-Total Quantities by Country 
+-  Total Quantities by Country 
 
 - Shows sales distribution across different regions.
   
@@ -130,7 +131,7 @@ Total Quantities by Country
 
  #### Graph KPIs 
  
-Revenue & Quantities by Top 10 Customers 
+- Revenue & Quantities by Top 10 Customers 
 
 - Displays total revenue and total quantities for the top 10 customers.
   
@@ -140,7 +141,7 @@ Revenue & Quantities by Top 10 Customers
   
 - Helps in identifying key customers driving business growth.
 
-Revenue & Quantities by Country 
+- Revenue & Quantities by Country 
 
 - Shows sales performance across different countries.
   
