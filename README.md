@@ -79,7 +79,7 @@ The dashboards are designed to address the specific business needs of the CEO an
 
  #### Graph KPIs 
  
-- Total Revenue by Month 
+##### Total Revenue by Month 
 
 - This chart visualizes revenue trends across different months.
 
@@ -101,7 +101,7 @@ Total Revenue by Bottom 3 Months
 
  #### Geographical KPI 
  
--  Total Quantities by Country 
+#####  Total Quantities by Country 
 
 - Shows sales distribution across different regions.
   
@@ -131,7 +131,7 @@ Total Revenue by Bottom 3 Months
 
  #### Graph KPIs 
  
-- Revenue & Quantities by Top 10 Customers 
+##### Revenue & Quantities by Top 10 Customers 
 
 - Displays total revenue and total quantities for the top 10 customers.
   
@@ -141,7 +141,7 @@ Total Revenue by Bottom 3 Months
   
 - Helps in identifying key customers driving business growth.
 
-- Revenue & Quantities by Country 
+##### Revenue & Quantities by Country 
 
 - Shows sales performance across different countries.
   
